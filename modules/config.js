@@ -6,8 +6,8 @@ global.falgrup = "ACCES NOT ACCEPTED‼️"
 global.imagemenu = ["https://files.catbox.moe/fymz5j.jpeg", "https://files.catbox.moe/23r2wq.jpeg", "https://files.catbox.moe/7m1rdq.jpeg"];
 
 global.owner = [
-  "628565394116", //should start with country code
-  "628565394116"  //second number if available
+  "62895326205615", //should start with country code
+  "62895326205615"  //second number if available
 ]
 
 
